@@ -1,4 +1,4 @@
-#Twittter
+# Twittter
 
 This project is an attempt to mimic Twitter's functionality. It runs on Ruby 2.7.2, so make sure you have that installed and set up.
 
